@@ -1,7 +1,10 @@
-🐦 Bird Observations Dashboard
-The project aims to analyze the distribution and diversity of bird species in two distinct ecosystems: forests and grasslands. This Power BI project explores detailed bird observation data across various environmental and temporal dimensions. It is designed to assist ecologists, researchers, and conservationists in identifying patterns and trends in bird behavior, habitat use, and conservation needs.
+🐦 Bird Observations Dashboard (Screenshots attached in /Screenshots/ folder)
 
-📁 Project Structure
+The project aims to analyze the distribution and diversity of bird species in two distinct ecosystems: forests and grasslands. 
+This Power BI project explores detailed bird observation data across various environmental and temporal dimensions. 
+It is designed to assist ecologists, researchers, and conservationists in identifying patterns and trends in bird behavior, habitat use, and conservation needs.
+
+📁 Project Structure 
 
 Bird_Species_Observation_Analysis_Project/
 
