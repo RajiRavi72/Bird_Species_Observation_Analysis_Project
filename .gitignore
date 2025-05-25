@@ -1,1 +1,5 @@
-env/\n__pycache__/\noutputs/
+env/
+__pycache__/
+outputs/
+Bird_Monitoring_Data_FOREST.XLSX
+Bird_Monitoring_Data_GRASSLAND.XLSX
