@@ -6,12 +6,19 @@ The project aims to analyze the distribution and diversity of bird species in tw
 Bird_Species_Observation_Analysis_Project/
 │
 ├── |notebooks/
+
 |   ├──01_DataCleaning_And_Preprocessing.ipynb  # Python code for data preprocessing
+
 |   ├── Bird_Monitoring_Data_FOREST.XLSX        # Raw data (excluded via .gitignore)
+
 │   ├── Bird_Monitoring_Data_GRASSLAND.XLSX     # Raw data (excluded via .gitignore)
+
 ├── Scrip for Project.sql                       # SQL script to create normalized database tables
+
 ├── BirdSpeciesReport.pbix                      # Power BI report file
+
 ├── README.md
+
 └── .gitignore
 
 🔧 Workflow Overview
